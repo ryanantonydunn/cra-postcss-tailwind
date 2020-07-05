@@ -1,8 +1,6 @@
 # Starter for Tailwind with PostCSS and Create React App
 
-A smoother way of using Tailwind CSS with Create React App
-
-[Article here](https://dev.to/ryandunn/how-to-use-tailwind-with-create-react-app-and-postcss-with-no-hassle-2i09)
+A smoother way of using Tailwind CSS with Create React App. [Article here](https://dev.to/ryandunn/how-to-use-tailwind-with-create-react-app-and-postcss-with-no-hassle-2i09).
 
 - [Create React App](https://create-react-app.dev/docs/getting-started/)
 - [TailwindCSS](https://tailwindcss.com/)
